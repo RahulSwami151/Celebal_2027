@@ -1,14 +1,6 @@
-# Generated from: week1_Rahul_Swami_.ipynb
-# Converted at: 2026-05-31T08:36:27.346Z
-# Next step (optional): refactor into modules & generate tests with RunCell
-# Quick start: pip install runcell
-
 # # 📘 Week 1 Assignment — ML Foundations
 # 
 # **Topics Covered:** Python · NumPy · Pandas · Linear Algebra · Statistics · Probability Theory
-# 
-# ---
-# 
 
 
 # ── Setup ──────────────────────────────────────────────────────────────────
@@ -994,4 +986,3 @@ print(
 # # ***Assignment 1 Completed*** ✅
 # 
 # ---
-#
